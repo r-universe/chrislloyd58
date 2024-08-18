@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "CLAST"]
+	path = CLAST
+	url = https://github.com/cran/CLAST
+[submodule "exact.n"]
+	path = exact.n
+	url = https://github.com/cran/exact.n
